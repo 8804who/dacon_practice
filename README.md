@@ -1,2 +1,2 @@
 # dacon_practice
-데이콘 대회 관련 파일 저장소입니다.
+[데이콘 프로필](https://dacon.io/myprofile/477473/home)
