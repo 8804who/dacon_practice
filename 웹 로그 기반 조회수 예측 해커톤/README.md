@@ -9,5 +9,5 @@ PUBLIC-60등
 PRIVATE-2등
 <img src="./image/private.png">
 
-최종 순위-2등
+최종 순위-2등<br>
 <img src="./image/final.png">
