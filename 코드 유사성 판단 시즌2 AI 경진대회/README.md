@@ -2,8 +2,8 @@
 [대회 링크](https://dacon.io/competitions/official/236228/overview/description)<br>
 
 ### 결과
-PUBLIC-60등
+PUBLIC-9등
 <img src="./image/public.png">
 
-PRIVATE-2등
+PRIVATE-10등
 <img src="./image/private.png">
